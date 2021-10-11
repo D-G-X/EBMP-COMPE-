@@ -1,1 +1,1 @@
-# Image-Encryption
+# EBMP-COMPE
